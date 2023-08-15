@@ -1,0 +1,32 @@
+
+Device：
+Graphics support：
+除Console外全关
+Sound card 声音
+Accessibility support 
+hyper-v 微软
+
+FPGA
+MOST 
+SoundWire 声音
+Micro 微软
+Grey 音频
+
+SLIMbus support 声音
+Trusted Execution Environment support 无需TEE
+NVDIMM (Non-Volatile Memory Device) Support 无需持久性内存
+Unified support for USB4 and Thunderbolt
+ IndustryPack 可能与以太网相关？
+Pulse-Width Modulation (PWM) Support
+Industrial I/O support
+Staging drivers
+Data acquisition support
+VHOST drivers
+vDPA drivers
+Virtio drivers
+Virtualization drivers
+Parallel port LCD/Keypad Panel support (OLD OPTION)
+Auxiliary Display support
+EDAC (Error Detection And Correction) reporting
+Sony MemoryStick card support
+Remote Controller support

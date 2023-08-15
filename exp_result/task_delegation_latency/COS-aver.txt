@@ -1,0 +1,34 @@
+0
+average latency: 68742.32653061225
+max latency: 99975
+min latency: 37578
+
+5
+average latency: 24541.8
+max latency: 30135
+min latency: 16487
+
+6
+average latency: 23797.56
+max latency: 29815
+min latency: 14795
+
+7
+average latency: 24346.94
+max latency: 29571
+min latency: 15373
+
+8:
+average latency: 24027.20408163265
+max latency: 32895
+min latency: 18936
+
+9:
+average latency: 24492.673469387755
+max latency: 28694
+min latency: 20384
+
+10:
+average latency: 24633.659574468085
+max latency: 29713
+min latency: 10063
