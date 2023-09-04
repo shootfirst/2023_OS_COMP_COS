@@ -148,18 +148,18 @@ COS由以下五大部分组成
 
 ## 代码仓库
 
-本项目由多个代码仓库组成，托管在 GitHub 或 Gitlab 上。各仓库地址如下，供参考：
+本项目由多个代码仓库组成，托管在 GitHub 上。各仓库地址如下，供参考：
 
 | 仓库                           | 仓库地址                                                   |
 | ------------------------------ | ----------------------------------------------------------------- | 
 | 本项目主仓库                   | https://gitlab.eduxiji.net/202318123111334/proj134-cfs-based-userspace-scheduler/                       |
 | COS kernel             | https://github.com/shootfirst/cos_kernel                               |
-| COS userspace               | https://gitlab.eduxiji.net/202318123111334/cos_userspace                     |
-| EXT kernel | https://gitlab.eduxiji.net/202318123111334/ext-kernel                          |
-| EXT userspace          | https://gitlab.eduxiji.net/202318123111334/ext-userspace |
+| COS userspace               | https://github.com/shootfirst/cos_userspace                     |
 
 
 ## 未来展望
 
 + 申请专利
+
++ 发表论文（ATC）
 
