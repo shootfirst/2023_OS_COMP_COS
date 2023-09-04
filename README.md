@@ -152,7 +152,7 @@ COS由以下五大部分组成
 
 | 仓库                           | 仓库地址                                                   |
 | ------------------------------ | ----------------------------------------------------------------- | 
-| 本项目主仓库                   | https://gitlab.eduxiji.net/202318123111334/proj134-cfs-based-userspace-scheduler/                       |
+| 本项目主仓库                   | https://github.com/shootfirst/2023_OS_COMP_COS.git                       |
 | COS kernel             | https://github.com/shootfirst/cos_kernel                               |
 | COS userspace               | https://github.com/shootfirst/cos_userspace                     |
 
